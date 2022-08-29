@@ -1,2 +1,2 @@
 # AnimationApp
-Use pods : Spring, NVActivityIndicatorView
+was used pods like: Spring, NVActivityIndicatorView
